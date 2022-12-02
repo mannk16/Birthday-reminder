@@ -1,0 +1,32 @@
+.data-container img {
+  width: 110px;
+  height: 110px;
+  border-radius: 60%;
+}
+
+.data-container {
+  display: flex;
+  margin-bottom: 30px;
+  padding: 5px;
+}
+
+.data-content {
+  margin-left: 30px;
+}
+
+.name-person {
+  font-weight: 700;
+}
+
+.btn {
+  border: none;
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  color: white;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  padding: 10px;
+}
